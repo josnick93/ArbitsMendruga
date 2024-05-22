@@ -22,7 +22,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "softwarekeyboardlayoutmode":"pan",
+      "softwarekeyboardlayoutmode": "pan",
       "package": "com.creshsofresh.Artbitsfinalproject",
       "permissions": [
         "android.permission.ACCESS_COARSE_LOCATION",
@@ -36,7 +36,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "e010e7e7-06da-400c-829f-43c8e08c06e6"
+        "projectId": "f3c56ee0-1b05-40b6-b332-cd32637505b9"
       }
     },
     "scheme": "Artbits-final-project",
