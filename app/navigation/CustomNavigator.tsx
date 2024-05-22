@@ -26,7 +26,7 @@ import { JobsDetailScreen } from "../screens/jobs/JobsDetailScreen";
 import { CourseForm } from "../screens/uploads/course/CourseForm";
 import { CoursesScreen } from "../screens/courses/CoursesScreen";
 import { EditProfile } from "../screens/profile/EditProfile";
-import { CoursesDetailScreen } from "../screens/courses/CoursesDetailScreen";
+import { CoursesDetailScreen } from "../screens/courses/coursesDetailScreen";
 
 const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
